@@ -1,0 +1,17 @@
+D:\Stuff\Coding\VB\CalcV0\CalcV0\bin\Debug\net6.0-windows\CalcV0.exe
+D:\Stuff\Coding\VB\CalcV0\CalcV0\bin\Debug\net6.0-windows\CalcV0.deps.json
+D:\Stuff\Coding\VB\CalcV0\CalcV0\bin\Debug\net6.0-windows\CalcV0.runtimeconfig.json
+D:\Stuff\Coding\VB\CalcV0\CalcV0\bin\Debug\net6.0-windows\CalcV0.dll
+D:\Stuff\Coding\VB\CalcV0\CalcV0\bin\Debug\net6.0-windows\CalcV0.pdb
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.vbproj.AssemblyReference.cache
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.Form1.resources
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.vbproj.GenerateResource.cache
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.AssemblyInfoInputs.cache
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.AssemblyInfo.vb
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.vbproj.CoreCompileInputs.cache
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.dll
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\refint\CalcV0.dll
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.pdb
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\CalcV0.genruntimeconfig.cache
+D:\Stuff\Coding\VB\CalcV0\CalcV0\obj\Debug\net6.0-windows\ref\CalcV0.dll
